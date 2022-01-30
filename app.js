@@ -8,7 +8,7 @@ require('console.table');
 require('dotenv').config()
 
 
-// connection to database
+// Communicates to mysql database
 const connection = mysql.createConnection({
   host: 'localhost',
   user: 'root',
