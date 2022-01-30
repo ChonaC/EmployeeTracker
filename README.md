@@ -5,8 +5,8 @@ This application allows the user(Manager) to keep track of current employees in 
 
 ## Installation
 * Cloning the repo: `git clone git@github.com:ChonaC/EmployeeTracker.git` into your command line.
-* In root directory: npm i to install node-modules
-* Starting the server: npm start.
+* In root directory: `npm i` to install node-modules
+* Starting the server: `npm start`
 * To view MySQL database: `mysql -u root -p` and enter password
 
 ## Technologies
